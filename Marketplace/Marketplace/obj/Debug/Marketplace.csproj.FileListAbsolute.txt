@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\bin\Debug\Marketplace.exe.config
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\bin\Debug\Marketplace.exe
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\bin\Debug\Marketplace.pdb
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\obj\Debug\Marketplace.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\obj\Debug\Marketplace.Form1.resources
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\obj\Debug\Marketplace.Properties.Resources.resources
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\obj\Debug\Marketplace.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\obj\Debug\Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\obj\Debug\Marketplace.exe
+C:\Users\User\Desktop\ИСРПО\Marketplace\Marketplace\obj\Debug\Marketplace.pdb

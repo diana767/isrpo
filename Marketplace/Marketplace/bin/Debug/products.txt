@@ -1,0 +1,10 @@
+234,Сок ананосовый,100,10,СОКИ,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
+333,Сок добрый,100,10,СОКИ,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
+222,Шоколад Алёнка,80,20,Шоколад,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
+878,Зубная щётка,150,20,ЗУБКИ,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
+111,Капуста,50,10,ОВОЩИ,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
+999,Кукуруза,66,15,ОВОЩИ,
+444,Конфеты,20,50,Шоколад,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
+666,Персик,22,40,ФРУКТЫ,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
+133,Йогурт,89,30,МОЛОЧКА,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
+777,Молоко,67,22,МОЛОЧКА,C:\Users\User\Pictures\max-twain-devushka-shorty-tatu.jpg
